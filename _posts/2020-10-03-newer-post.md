@@ -13,13 +13,13 @@ categories : jekyll update
 </div>
 
 <div class="header">
-  <h2>Contos</h2>
+  <h2>Noticias Nacionais</h2>
 </div>
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
     <h3 style="text-align:center;">Pré-Venda de Santo Guerreiro, Roma Invicta</h3>
-    O Autor Eduardo Spohr anuninciou na sua pagina no Youtube a pré-venda de seu novo livro, Santo Guerreiro, Roma Invicta. O romance histórico que acompanhara a vida de São Jorge tem lançamento previsto para o ano que vem. O video pode ser visto <a href ="https://www.youtube.com/watch?v=7omx-etGKQs&ab_channel=EduardoSpohr">aqui</a>. 
+    O Autor Eduardo Spohr anunciou na sua pagina no Youtube a pré-venda de seu novo livro, Santo Guerreiro, Roma Invicta. O romance histórico que acompanhara a vida de São Jorge tem lançamento previsto para o ano que vem. O video pode ser visto <a href ="https://www.youtube.com/watch?v=7omx-etGKQs&ab_channel=EduardoSpohr">aqui</a>. 
   </div>
   <div class="column" style="background-color:#bbb;">
     <h3 style="text-align:center;">Crowd-Funding do Tormenta RPG chega ao fim</h3>
