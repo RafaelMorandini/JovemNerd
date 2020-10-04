@@ -48,7 +48,7 @@
     text-align: center;
   }
   
-  @media (max-width: 800px) {
+  @media (max-width: 850px) {
     .column {
       width: 100%;
     }
